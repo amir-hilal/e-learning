@@ -1,0 +1,9 @@
+[submodule "e-learning-frontend-user"]
+	path = e-learning-frontend-user
+	url = https://github.com/amir-hilal/e-learning-frontend-user.git
+[submodule "e-learning-back"]
+	path = e-learning-back
+	url = https://github.com/amir-hilal/e-learning-back.git
+[submodule "e-learning-admin"]
+	path = e-learning-admin
+	url = https://github.com/amir-hilal/e-learning-admin.git
